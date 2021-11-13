@@ -1,0 +1,22 @@
+/* File to import all the fonts and things that can be imported using css */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+/* 
+
+Font Import Note : 
+	- Roboto 
+		weights : 100 300 400 700 900 ; 
+		usage : font-family: 'Roboto', sans-serif;
+
+	- Roboto Condensed
+		weights : 700
+		usage: font-family: 'Roboto Condensed', sans-serif;
+	
+	- Roboto Mono 
+		weights : 400
+		usage: font-family: 'Roboto Mono', monospace; 
+
+ */
