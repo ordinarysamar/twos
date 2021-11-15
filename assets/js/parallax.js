@@ -8,6 +8,6 @@ document.addEventListener('scroll', () => {
 	var speed = bgImage.dataset.speed;
 
 
-	bgImage.style.transform = `translateY(${scroll * speed}px)`;
+	bgImage.style.transform = `translateY(${scroll * speed}px) `;
 	// console.log(scroll);
 });
